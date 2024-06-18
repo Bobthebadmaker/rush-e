@@ -1,5 +1,4 @@
-
-> Open this page at [https://bobthebadmaker.github.io/rush-e/](https://bobthebadmaker.github.io/rush-e/)
+Please note, it kinda sounds like rush E. Not perfect
 
 ## Use as Extension
 
