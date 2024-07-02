@@ -1,23 +1,15 @@
 Please note, it kinda sounds like rush E. Not perfect
 
-## Use as Extension
+## How to install
 
-This repository can be added as an **extension** in MakeCode.
-
+This is how you install the code via MakeCode
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/bobthebadmaker/rush-e** and import
+* Click inport
+* Copy this link **https://github.com/bobthebadmaker/rush-e** 
+* Click the middle option in the inport option
 
-## Edit this project
+* ## HEX Download
 
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/bobthebadmaker/rush-e** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+* Download the file
+* Open your file explorer
+* Drag and drop the HEX file into the Microbit
